@@ -1,0 +1,7 @@
+.compile_flags.txt
+
+firmware/*.o
+firmware/*.hex
+firmware/*.elf
+
+interface/__pycache__
